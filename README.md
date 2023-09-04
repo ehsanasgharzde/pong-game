@@ -1,6 +1,6 @@
 # Pong Game
 
-This Pong Game is a classic arcade-style game implemented in Python using the Tkinter library. The game consists of several modules, each responsible for different aspects of the game.
+This Pong Game is a classic arcade-style game implemented in Python using the Turtle library. The game consists of several modules, each responsible for different aspects of the game.
 
 ## Modules
 
@@ -31,14 +31,12 @@ This Pong Game is a classic arcade-style game implemented in Python using the Tk
 ## Requirements
 
 - Python 3.x
-- Tkinter (included in most Python installations)
+- Turtle library (usually included with Python)
 
 ## Installation
 
 1. Clone the repository to your local machine.
 
 2. Run `main.py` to start the game.
-
-
 
 Enjoy the game!
